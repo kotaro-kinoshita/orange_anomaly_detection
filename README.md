@@ -19,6 +19,12 @@ by Applying Structural Similarity To Autoencoders
 - Augmentation: Random Crop, Horizontal Flip
 - Loss: SSIM
 
+## 結果(定性)
+
+<img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/demo1.jpg"> <img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/demo2.jpg"> <img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/demo3.jpg"> 
+
+<img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/heatmap1.jpg"> <img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/heatmap2.jpg"> <img src="https://github.com/kotaro-kinoshita/orange_anomaly_detection/blob/main/demo/heatmap3.jpg">
+
 
 
 
