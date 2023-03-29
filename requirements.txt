@@ -1,0 +1,5 @@
+pytorch-msssim
+torch
+torchvision
+Pillow
+opencv-python
