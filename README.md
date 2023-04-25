@@ -5,8 +5,7 @@
 - 判断根拠を示すために異常箇所を可視化
 
 ## 手法
-参考論文: [Improving Unsupervised Defect Segmentation](https://arxiv.org/abs/1807.02011)
-by Applying Structural Similarity To Autoencoders
+[Improving Unsupervised Defect Segmentation by Applying Structural Similarity To Autoencoders](https://arxiv.org/abs/1807.02011)を参考に実装
 - AutoEncoder + SSIM Lossを用いた教師なし学習
 - 正常画像のみを用いて、画像を再構成するAutoEncoderを学習
 
